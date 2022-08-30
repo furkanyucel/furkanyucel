@@ -25,7 +25,7 @@
 
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="ikon/html_icon.png"/>      </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="ikon/css_icon.png"/>      </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="ikon/javascript_icon.png"/>      </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="ikon/jquery_plain_icon_.png"/>      </a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="ikon/jquery_plain_icon_.png"/>      </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="ikon/bootstrap_icon.png"/> </a>      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="ikon/git_icon.png"/>      </a></p>
 <p align="center">
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="ikon/figma_icon.png"/>      </a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="ikon/sketch_icon.png"/>      </a><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="ikon/adobe_xd_icon.png"/>      </a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="ikon/adobe_photoshop_icon.png"/>      </a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="ikon/adobe_illustrator_icon.png"/></a></p>
