@@ -17,8 +17,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/furkanyucel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkanyucel" height="30" width="40" /></a>
-<a href="https://www.behance.net/yucelfurkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="yucelfurkan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/furkanyucel" target="blank"><img align="center" src="ikon/linkedin.png"/></a>
+<a href="https://www.behance.net/yucelfurkan" target="blank"><img align="center" src="ikon/behance.png"/></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
