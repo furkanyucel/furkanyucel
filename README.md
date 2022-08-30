@@ -17,7 +17,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/furkanyucel" target="blank"><img align="center" src="ikon/linkedin.png"/></a>
+<a href="https://linkedin.com/in/furkanyucel" target="blank"><img align="center" src="ikon/linkedin.png"/>      </a>
 <a href="https://www.behance.net/yucelfurkan" target="blank"><img align="center" src="ikon/behance.png"/></a>
 </p>
 
