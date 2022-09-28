@@ -34,4 +34,3 @@
 <a href="https://www.sublimetext.com//" target="_blank" rel="noreferrer"> <img src="ikon/sublime.png"/>      </a>
 <a href="https://brackets.io/" target="_blank" rel="noreferrer"> <img src="ikon/brackets.png"/>      </a>
 <a href="https://trello.com" target="_blank" rel="noreferrer"><img src="ikon/trello_icon.png"/> </a><a href="https://slack.com" target="_blank" rel="noreferrer"><img src="ikon/slack_icon.png"/></a> <a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="ikon/notion_icon.png"/></a></p>
-
