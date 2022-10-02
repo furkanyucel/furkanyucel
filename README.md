@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <p align="center">
- 🌱 I’m currently learning Html, Css, JS, Bootstrap, Jquery, Git
+ 🌱 I’m currently learning Html, Css, JS, Bootstrap, Sass Jquery, Git
  </p>
 <p align="center">
  👨‍💻 My official web site www.furkanyucel.com
