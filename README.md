@@ -23,7 +23,6 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="ikon/html_icon.png"  width="40" height="40"/>      </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="ikon/css_icon.png"  width="40" height="40"/>      </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="ikon/javascript_icon.png" width="40" height="40"/>      </a>
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
