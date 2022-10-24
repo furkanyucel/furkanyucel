@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan Yücel</h1>
+
 <h3 align="center">A passionate UI Designer and Frontend Developer from Istanbul, Turkey</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=furkanyucelux&label=Profile%20views&color=0e75b6&style=flat" alt="furkanyucelux" /> </p>
