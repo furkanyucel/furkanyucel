@@ -9,6 +9,7 @@
 <p align="center">
  🌱 I’m currently learning Html, Css, JS, React, Tailwindcss, Bootstrap, Sass, Jquery, Git
  </p>
+ 
 <p align="center">
  👨‍💻 My official web site www.furkanyucel.com
  </p>
