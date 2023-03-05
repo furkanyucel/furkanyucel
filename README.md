@@ -22,6 +22,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/furkanyucel" target="blank"><img align="center" src="ikon/linkedin.png" width="40" height="40"/>      </a>
+ 
 <!-- <a href="https://www.behance.net/yucelfurkan" target="blank"><img align="center" src="ikon/behance.png"/></a> -->
 </p>
 
