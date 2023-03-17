@@ -14,7 +14,6 @@
  👨‍💻 My official web site www.furkanyucel.com
  </p>
  
- 
 <p align="center">
  📫 How to reach me <a href="mailto:furkanyucelux@gmail.com">furkanyucelux@gmail.com</a>
 </p>
