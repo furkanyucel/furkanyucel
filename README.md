@@ -9,7 +9,7 @@
 
 
 <p align="center">
- 🌱 I’m currently learning Html, Css, JS, React, Tailwindcss, Bootstrap, Sass, Jquery, Git
+ 🌱 I’m currently learning React, Next, Tailwindcss
  </p>
  
 <p align="center">
