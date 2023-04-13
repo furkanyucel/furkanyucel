@@ -39,5 +39,4 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="ikon/figma_icon.png" width="40" height="40"/>      </a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="ikon/sketch_icon.png" width="40" height="40"/>      </a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="ikon/adobe_photoshop_icon.png" width="40" height="40"/>      </a></p>
 <p align="center">
 <a href="https://vscode.dev/" target="_blank" rel="noreferrer"> <img src="ikon/vscode.png" width="40" height="40"/>      </a>
-<a href="https://www.sublimetext.com//" target="_blank" rel="noreferrer"> <img src="ikon/sublime.png" width="40" height="40"/>      </a>
 <a href="https://trello.com" target="_blank" rel="noreferrer"><img src="ikon/trello_icon.png" width="40" height="40"/> </a><a href="https://slack.com" target="_blank" rel="noreferrer"><img src="ikon/slack_icon.png" width="40" height="40"/></a> <a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="ikon/notion_icon.png" width="40" height="40"/></a></p>
