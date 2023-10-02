@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Furkan Yücel</h1>
+<h1 align="center">Hello 👋, I'm Furkan Yücel</h1>
 
 <h3 align="center">A passionate UI Designer and Frontend Developer from Istanbul, Turkey</h3>
 
