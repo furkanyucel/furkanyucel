@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hello, I'm Furkan Yücel</h1>
 
 <h3 align="center">A passionate UI Designer and Frontend Developer from Istanbul, Turkey</h3>
@@ -38,8 +40,8 @@
 <p align="center">
 <a href="https://vscode.dev/" target="_blank" rel="noreferrer"> <img src="ikon/vscode.png" width="40" height="40"/>      </a>
 <a href="https://trello.com" target="_blank" rel="noreferrer"><img src="ikon/trello_icon.png" width="40" height="40"/> </a><a href="https://slack.com" target="_blank" rel="noreferrer"><img src="ikon/slack_icon.png" width="40" height="40"/></a> <a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="ikon/notion_icon.png" width="40" height="40"/></a></p>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanyucel&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact&align=center)
 <!--
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanyucel&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact&align=center)
+
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=@furkanyucel)
 -->
