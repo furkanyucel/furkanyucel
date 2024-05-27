@@ -10,7 +10,7 @@
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a></p>
 
 <p align="center">
- 🌱 I’m currently learning React, Next
+ 🌱 I’m currently learning React.Js and Node.Js
  </p>
  
 <p align="center">
@@ -30,28 +30,22 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-
 <p align="center">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="ikon/html_icon.png"  width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="ikon/css_icon.png"  width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="ikon/javascript_icon.png" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://sass-lang.com/guide" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/242px-Sass_Logo_Color.svg.png"  width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="ikon/javascript_icon.png" width="40" height="40"/></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>        
+<a href="https://sass-lang.com/guide" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/242px-Sass_Logo_Color.svg.png"  width="40" height="40"/></a>
+ <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="ikon/css_icon.png"  width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="ikon/html_icon.png"  width="40" height="40"/></a>
 <!--  <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="ikon/jquery_plain_icon_.png" width="40" height="40"/></a> --> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="ikon/git_icon.png" width="40" height="40"/></a>
-</p>
- 
-<p align="center">
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="ikon/figma_icon.png" width="40" height="40"/></a>
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="ikon/sketch_icon.png" width="40" height="40"/></a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="ikon/adobe_photoshop_icon.png" width="40" height="40"/></a>
-</p>
-<p align="center">
 <a href="https://vscode.dev/" target="_blank" rel="noreferrer"> <img src="ikon/vscode.png" width="40" height="40"/></a>
 <a href="https://trello.com" target="_blank" rel="noreferrer"><img src="ikon/trello_icon.png" width="40" height="40"/></a>
- 
+</p>
  <!--
  <a href="https://slack.com" target="_blank" rel="noreferrer"><img src="ikon/slack_icon.png" width="40" height="40"/></a> <a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="ikon/notion_icon.png" width="40" height="40"/></a></p>
 
