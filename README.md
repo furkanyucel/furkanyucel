@@ -1,5 +1,5 @@
 
- <img src="github-banner.png" />
+ <img src="banner.png" />
 
 <h1 align="center">Hello, I'm Furkan Yücel</h1>
 
