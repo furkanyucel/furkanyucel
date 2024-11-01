@@ -6,16 +6,16 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is Furkan Yücel
+        👋 Merhabalar, Ben Furkan Yücel
       </h1>
     </summary>
   </ul>
 </div>
 
-**<h3 align="center">Connect with me:</h3>** 
-<p align="center"><a href="https://github.com/furkanyucel" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/furkanyucel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.behance.net/yucelfurkan" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+**<h3 align="center">Bana ulaşmak için:</h3>** 
+<p align="center"><a href="https://github.com/furkanyucel" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 16px"></a> <a href="https://www.linkedin.com/in/furkanyucel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 16px"></a> <a href="furkanyucelux@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 16px"></a></p>
 
- **<h3 align="left">👨‍💻 Merhaba! Ben Furkan Yücel, UI Designer & Frontend Developer ( React.js )'ım. 
+ **<p align="left">👨‍💻 Merhaba! Ben Furkan Yücel, UI Designer & Frontend Developer ( React.js )'ım. 
 <br><br>
 💻 Teknoloji tutkunu ve kullanıcı dostu arayüzlerin yaratıcısıyım. HTML, CSS, JavaScript, Sass, Tailwind ve Bootstrap konularında uzmanlık sahibiyim, aynı zamanda React.js gibi modern framework'leri etkin bir şekilde kullanıyorum.
 <br><br>
@@ -23,11 +23,11 @@
 <br><br>
 📩 furkanyucelux@gmail.com
 <br><br>
-📍 Antalya / Türkiye</h3>**
+📍 Antalya / Türkiye</p>**
 
  **<h3 align="left">Skills</h3>**
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: left;"><img src="https://skillicons.dev/icons?i=react" height="36" alt="React" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=javascript" height="36" alt="JavaScript" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="Tailwind CSS" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=sass" height="36" alt="Sass" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=bootstrap" height="36" alt="Bootstrap" style="margin-right: 8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="36" alt="CSS3" style="margin-right: 8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="36" alt="HTML5" style="margin-right: 8px"> <img src="https://cdn.simpleicons.org/git/F1502F" height="36" alt="Git" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=vscode" height="36" alt="VSCode" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=figma" height="36" alt="Figma" style="margin-right: 8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" height="36" alt="Photoshop" style="margin-right: 8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" height="36" alt="Illustrator" style="margin-right: 8px"></div>
+<div style="display: flex; flex-wrap: wrap; gap: 18px; justify-content: left;"><img src="https://skillicons.dev/icons?i=react" height="36" alt="React" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=javascript" height="36" alt="JavaScript" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="Tailwind CSS" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=sass" height="36" alt="Sass" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=bootstrap" height="36" alt="Bootstrap" style="margin-right: 18px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="36" alt="CSS3" style="margin-right: 18px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="36" alt="HTML5" style="margin-right: 18px"> <img src="https://cdn.simpleicons.org/git/F1502F" height="36" alt="Git" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=vscode" height="36" alt="VSCode" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=figma" height="36" alt="Figma" style="margin-right: 18px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="36" alt="Photoshop" style="margin-right: 18px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" height="36" alt="Illustrator" style="margin-right: 18px"></div>
 
  **<h3 align="left">GitHub Stats</h3>**
 
